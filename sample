@@ -1,3 +1,7 @@
 This is sample
+<<<<<<< HEAD
 edited locally 
 using gitbash
+=======
+edited remotely
+>>>>>>> 358367030b9637fe6ea1c53fd8eda23bdd334bf9
